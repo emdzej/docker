@@ -1,0 +1,27 @@
+[submodule "docker-piwik"]
+	path = docker-piwik
+	url = git@github.com:emdzej/docker-piwik.git
+[submodule "docker-homebridge"]
+	path = docker-homebridge
+	url = git@github.com:emdzej/docker-homebridge.git
+[submodule "docker-transmission"]
+	path = docker-transmission
+	url = git@github.com:emdzej/docker-transmission.git
+[submodule "docker-plex"]
+	path = docker-plex
+	url = git@github.com:emdzej/docker-plex.git
+[submodule "docker-isso"]
+	path = docker-isso
+	url = git@github.com:emdzej/docker-isso.git
+[submodule "docker-gitlab"]
+	path = docker-gitlab
+	url = git@github.com:emdzej/docker-gitlab.git
+[submodule "docker-nginx"]
+	path = docker-nginx
+	url = git@github.com:emdzej/docker-nginx.git
+[submodule "docker-ghost"]
+	path = docker-ghost
+	url = git@github.com:emdzej/docker-ghost.git
+[submodule "docker-node"]
+	path = docker-node
+	url = git@github.com:emdzej/docker-node.git
