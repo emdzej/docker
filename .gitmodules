@@ -28,3 +28,6 @@
 [submodule "docker-mysql"]
 	path = docker-mysql
 	url = git@github.com:emdzej/docker-mysql.git
+[submodule "docker-mosquitto"]
+	path = docker-mosquitto
+	url = git@github.com:emdzej/docker-mosquitto.git
